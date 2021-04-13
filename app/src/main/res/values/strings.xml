@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Khalid AlHouti</string>
+    <string name="nasa">Nasa</string>
+    <string name="email"> Kalhouti@alfaisal.edu</string>
+    <string name="number"> +966556400029</string>
+    <string name="website">Khalid.com</string>
+
+
+
+
+
+
+
+
+    <string-array name="entries">
+        <item> Employee </item>
+        <item> Manager </item>
+        <item> Trainee </item>
+
+    </string-array>
+
+
+</resources>
